@@ -3,12 +3,12 @@
 ### Hello World! :earth_asia:
 
 I'm a student Web Developer.  
-By doing Back-end development I aim for a Full stack.  
+By doing Back-end development, I aim for a Full stack.  
 I try to gain experience in programming in various fields.
 
 [![SeongHo, Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho4607&theme=merko&hide=prs&count_private=true)](https://github.com/ho4607/github-readme-stats)
 
-## Development Stack & Experience
+### Development Stack & Experience
 Languages : 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
@@ -31,7 +31,7 @@ Tools :
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
-
+### Contact me
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fho4607%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
