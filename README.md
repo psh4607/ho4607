@@ -2,9 +2,9 @@
 
 ### Hello World! :earth_asia:
 
-I'm a student Web Developer based in Seoul, South Korea.  
+I'm a student Web Developer.  
 I'm currently working on Back-end development. And, eventually, I want to work on Full stack.  
-From Assembly to JavaScript, I constantly strive to gain diverse experiences in various fields of programming.
+From Assembly to Verilog to JavaScript, I constantly strive to gain diverse experiences in various fields of programming.
 
 
 [![SeongHo, Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho4607&theme=merko&hide=prs&count_private=true)](https://github.com/ho4607/github-readme-stats)
