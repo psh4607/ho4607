@@ -2,8 +2,8 @@
 
 ### Hello World! :earth_asia:
 
-I'm a student Web Developer based in Seoul, South Korea.
-I'm currently working on Back-end development. And, eventually, I want to work on Full stack.
+I'm a student Web Developer based in Seoul, South Korea.  
+I'm currently working on Back-end development. And, eventually, I want to work on Full stack.  
 From Assembly to JavaScript, I constantly strive to gain diverse experiences in various fields of programming.
 
 
