@@ -3,7 +3,7 @@
 ### Hello World! :earth_asia:
 
 I'm student Web Developer.  
-By doing back-end development I aim for a full stack.  
+By doing Back-end development I aim for a Full stack.  
 I try to gain experience in programming in various fields.
 
 [![SeongHo, Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho4607&theme=merko&hide=prs&count_private=true)](https://github.com/ho4607/github-readme-stats)
