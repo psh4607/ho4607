@@ -2,7 +2,7 @@
 
 ### Hello World! :earth_asia:
 
-I'm student Web Developer.  
+I'm a student Web Developer.  
 By doing Back-end development I aim for a Full stack.  
 I try to gain experience in programming in various fields.
 
