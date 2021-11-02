@@ -8,7 +8,7 @@ I'm student Web Developer.
 By doing Back-end development I aim for a Full stack.  
 I try to gain experience in programming in various fields.
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ho4607)](https://solved.ac/ho4607)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={ho4607})](https://solved.ac/{ho4607})
 
 ## Development Stack & Experience
 Languages : 
