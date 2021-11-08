@@ -2,7 +2,7 @@
 
 ### Hello World! :earth_asia:
 
-I'm a student Web Developer.  
+I'm a student **Web Developer.**  
 I'm currently working on Back-end development. And, eventually, I want to work on full stack.  
 From Assembly to Verilog to JavaScript, I constantly strive to gain diverse experiences in various fields of programming.
 
