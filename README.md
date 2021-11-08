@@ -25,7 +25,9 @@ Experiences :
 <img src="https://img.shields.io/badge/Algorithm-E02826?style=flat-square&logo=Icinga&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer Network-4934BF?style=flat-square&logo=Statuspal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data Structure-8D1F89?style=flat-square&logo=RxDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer Structure-458CF5?style=flat-square&logo=Google Search Console&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Computer Structure-458CF5?style=flat-square&logo=Google Search Console&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
 Tools : 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
