@@ -11,8 +11,6 @@ From Assembly to Verilog to JavaScript, I constantly strive to gain diverse expe
 
 ### Development Stack & Experience
 Languages : 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=gray"/> 
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Assembly (RICS)-2C2D72?style=flat-square&logo=.&logoColor=white"/> 
