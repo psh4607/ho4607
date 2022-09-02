@@ -26,7 +26,7 @@ From Assembly to Verilog to JavaScript, I constantly strive to gain diverse expe
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> 
 ### Tools    
-- Code Management : 
+- Version Management : 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 - Deployment : 
    <img src="https://img.shields.io/badge/AWS-F7DF1E?style=flat-square&logo=amazon&logoColor=gray"/>
